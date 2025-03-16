@@ -1,1 +1,1 @@
-# building-an-interpreter-in-go
+# building-an-compiler-in-go
